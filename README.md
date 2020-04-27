@@ -1,7 +1,9 @@
 
 
-#Welcome to my [Wiki](https://github.com/ziyeZzz/blog/wiki)
+## Welcome to my [Wiki](https://github.com/ziyeZzz/blog/wiki)
 
+
+/***
  *      ┌─┐       ┌─┐ + +
  *   ┌──┘ ┴───────┘ ┴──┐++
  *   │                 │
@@ -23,3 +25,5 @@
  *         │ ─┤ ─┤       │ ─┤ ─┤
  *         └──┴──┘       └──┴──┘  + + + +
  *                神兽保佑
+ *               代码无BUG!
+ */
